@@ -8,9 +8,7 @@
 |-----------|----------|
 | **Họ Tên** | Nguyễn hồ Minh Trọng |
 | **Mã sinh viên** | 2001230992 |
-| **Đồ án** | Kiểm tra Giữa kỳ - Thuật toán KNN |
-| **Ngôn ngữ** | Python 3.x |
-| **Thư viện chính** | NumPy, Pandas, Matplotlib |
+| **Đồ án** | Kiểm tra Lần 1 - Thuật toán K-Means |
 
 ---
 
